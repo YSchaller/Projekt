@@ -1,0 +1,36 @@
+body {
+  background-color: lightblue !important;
+}
+
+.card {
+  margin-top: 150px;
+  margin-left: 600px;
+  margin-right: 600px;
+  
+}
+
+.answerItem {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.nextButton {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  border-width: 0px;
+  background-color: orange;
+}
+
+.correct {
+  background-color: lightgreen !important;
+  color: green;
+}
+
+.wrong {
+  background-color: lightcoral !important;
+  color: red;
+}
